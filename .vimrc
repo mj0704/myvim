@@ -31,3 +31,4 @@ au BufReadPost *
 map <F2> :Explore<CR>
 map <F3> :nohl<CR>
 map <F4> <C-V>
+map <F5> :%s/	/  /g<CR>
