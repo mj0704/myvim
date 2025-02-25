@@ -9,14 +9,11 @@ set cindent
 set showmatch
 set smarttab
 set smartindent
-"set softtabstop=4
-"set tabstop=4
 
 "set ignorecase
 "set smartcase
 
 set tags=./tags,tags
-"set tags+=$HOME/cs341/KENSv3-master/tags
 
 if has("syntax")
  syntax on
